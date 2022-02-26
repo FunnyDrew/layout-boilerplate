@@ -1,0 +1,31 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "layout-boilerplate",
+  "main": "n",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunnyDrew/layout-boilerplate.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "layout"
+  ],
+  "author": "Rybin Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunnyDrew/layout-boilerplate/issues"
+  },
+  "homepage": "https://github.com/FunnyDrew/layout-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "htmlhint": "^1.1.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-order": "^5.0.0"
+  }
+}
